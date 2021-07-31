@@ -1,0 +1,21 @@
+{
+  "name": "yapi-plugin-import-apipost",
+  "version": "1.0.0",
+  "description": "import apipost plugin for yapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "null",
+  "license": "MIT",
+  "keywords": [
+    "yapi",
+    "apipost",
+    "plugin",
+    "import"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullnullruye/yapi-plugin-import-apipost.git"
+  }
+}
